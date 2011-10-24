@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DevDayIIMVC\FromRazorToCustomViewEngine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DevDayIIMVC\FromRazorToCustomViewEngine\bin\Debug\FromRazorToCustomViewEngine.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DevDayIIMVC\FromRazorToCustomViewEngine\bin\Debug\FromRazorToCustomViewEngine.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DevDayIIMVC\FromRazorToCustomViewEngine\obj\Debug\FromRazorToCustomViewEngine.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DevDayIIMVC\FromRazorToCustomViewEngine\obj\Debug\FromRazorToCustomViewEngine.pdb

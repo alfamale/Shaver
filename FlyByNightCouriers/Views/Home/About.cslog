@@ -1,0 +1,11 @@
+﻿@{
+    ViewBag.Title = "About Us";
+}
+
+<h2>Fly by Night</h2>
+<p>
+    Our mission statement is to synergistically swap the cash in your pocket for a slipshod, cheap delivery service. Fly by Night - your money becomes our money! Oh yeah, and hopefully we'll deliver the parcel for you.
+</p>
+<p>
+     This is a logged view - we know every time you view it!
+</p>

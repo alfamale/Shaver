@@ -1,0 +1,15 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DevDayIIMVC\FromRazorToCustomViewEngine\bin\Debug\ShaverViewEngine.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DevDayIIMVC\FromRazorToCustomViewEngine\bin\Debug\ShaverViewEngine.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DevDayIIMVC\FromRazorToCustomViewEngine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DevDayIIMVC\FromRazorToCustomViewEngine\obj\Debug\ShaverViewEngine.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DevDayIIMVC\FromRazorToCustomViewEngine\obj\Debug\ShaverViewEngine.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DevDayIIMVC\ShaverViewEngine\bin\Debug\ShaverViewEngine.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DevDayIIMVC\ShaverViewEngine\bin\Debug\ShaverViewEngine.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DevDayIIMVC\ShaverViewEngine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DevDayIIMVC\ShaverViewEngine\obj\Debug\ShaverViewEngine.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DevDayIIMVC\ShaverViewEngine\obj\Debug\ShaverViewEngine.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Shaver\ShaverViewEngine\bin\Debug\ShaverViewEngine.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Shaver\ShaverViewEngine\bin\Debug\ShaverViewEngine.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Shaver\ShaverViewEngine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Shaver\ShaverViewEngine\obj\Debug\ShaverViewEngine.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Shaver\ShaverViewEngine\obj\Debug\ShaverViewEngine.pdb

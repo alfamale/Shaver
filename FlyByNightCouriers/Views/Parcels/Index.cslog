@@ -1,0 +1,63 @@
+﻿@model IEnumerable<FlyByNight.Models.ParcelModel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Send a parcel - you never know, it might get there!</h2>
+
+<p>
+    @Html.ActionLink("Send a parcel", "Create")
+</p>
+<table>
+    <tr>
+        <th>
+            Parcel
+        </th>
+        <th>
+            Sender
+        </th>
+        <th>
+            Receiver
+        </th>
+        <th>
+            Description
+        </th>
+        <th>
+            Delivery Date
+        </th>
+        <th>
+            Delivery Status
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Parcel)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Sender)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Receiver)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Description)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DeliveryDate)
+        </td>
+        <td>
+            Yeah, right
+        </td>
+        <td>
+            @Html.ActionLink("Parcel Details", "Details", new { id = item.Parcel }) |
+            @Html.ActionLink("Parcel Invoice", "ParcelInvoice", new { id = item.Parcel })
+        </td>
+    </tr>
+}
+
+</table>

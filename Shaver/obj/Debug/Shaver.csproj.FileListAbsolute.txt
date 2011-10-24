@@ -1,0 +1,7 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Shaver\Shaver\bin\Shaver.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Shaver\Shaver\bin\Shaver.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Shaver\Shaver\bin\EntityFramework.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Shaver\Shaver\bin\EntityFramework.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Shaver\Shaver\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Shaver\Shaver\obj\Debug\Shaver.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Shaver\Shaver\obj\Debug\Shaver.pdb

@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DevDayIIMVC\MailerViewEngine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DevDayIIMVC\MailerViewEngine\bin\Debug\MailerViewEngine.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DevDayIIMVC\MailerViewEngine\bin\Debug\MailerViewEngine.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DevDayIIMVC\MailerViewEngine\bin\Debug\ShaverViewEngine.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DevDayIIMVC\MailerViewEngine\bin\Debug\ShaverViewEngine.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DevDayIIMVC\MailerViewEngine\obj\Debug\MailerViewEngine.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DevDayIIMVC\MailerViewEngine\obj\Debug\MailerViewEngine.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Shaver\MailerViewEngine\bin\Debug\MailerViewEngine.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Shaver\MailerViewEngine\bin\Debug\MailerViewEngine.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Shaver\MailerViewEngine\bin\Debug\ShaverViewEngine.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Shaver\MailerViewEngine\bin\Debug\ShaverViewEngine.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Shaver\MailerViewEngine\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Shaver\MailerViewEngine\obj\Debug\MailerViewEngine.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Shaver\MailerViewEngine\obj\Debug\MailerViewEngine.pdb

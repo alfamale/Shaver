@@ -1,0 +1,55 @@
+﻿@model FlyByNight.Models.ParcelModel
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Parcel Details</h2>
+
+<fieldset>
+    <legend>Parcel #@Html.DisplayFor(model => model.Parcel)</legend>
+
+    <div class="display-label">Cost</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Cost)
+    </div>
+
+    <div class="display-label">Sender</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Sender)
+    </div>
+
+    <div class="display-label">Sender Address</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.SenderAddress)
+    </div>
+
+    <div class="display-label">Receiver</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Receiver)
+    </div>
+
+    <div class="display-label">Receiver Address</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ReceiverAddress)
+    </div>
+
+    <div class="display-label">Message</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Message)
+    </div>
+
+    <div class="display-label">Description</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Description)
+    </div>
+
+    <div class="display-label">Delivery Date</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.DeliveryDate)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Back to List", "Index") | @Html.ActionLink("View Invoice", "ParcelInvoice", new { id = Model.Parcel })
+</p>
