@@ -1,8 +1,0 @@
-C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Shaver\Shaver.Tests\bin\Debug\Shaver.Tests.dll.config
-C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Shaver\Shaver.Tests\bin\Debug\Shaver.Tests.dll
-C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Shaver\Shaver.Tests\bin\Debug\Shaver.Tests.pdb
-C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Shaver\Shaver.Tests\bin\Debug\Shaver.dll
-C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Shaver\Shaver.Tests\bin\Debug\Shaver.pdb
-C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Shaver\Shaver.Tests\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Shaver\Shaver.Tests\obj\Debug\Shaver.Tests.dll
-C:\Users\Administrator\Documents\Visual Studio 2010\Projects\Shaver\Shaver.Tests\obj\Debug\Shaver.Tests.pdb
